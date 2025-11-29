@@ -4,7 +4,7 @@ A modern and immersive Smart Home Automation Website UI built using Next.js, Typ
 Designed for showcasing smart home products, Features, pricing plans, testimonials and more.
 
 🔥 Live Demo
-https://your-project-url.vercel.app
+[https://your-project-url.vercel.app](https://smart-home-landing-page-henna.vercel.app/)
 
 🚀 Installation
 ```
